@@ -1,0 +1,82 @@
+\documentclass[a4paper,12pt]{article}
+
+
+%\usepackage{times}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath}
+\usepackage{pxfonts}
+
+%\usepackage{amsfonts}
+\usepackage{amssymb}
+
+\usepackage{fancyhdr}
+\usepackage{graphicx}
+\usepackage{ifpdf}
+\usepackage{pdfpages}
+\pagestyle{fancy}
+
+\ifpdf
+        \DeclareGraphicsRule{*}{mps}{*}{}
+\fi
+
+
+\usepackage{ucs}
+\usepackage[utf8x]{inputenc}
+\usepackage{CJK}
+
+\title{Committee Meeting\\Agenda}
+\author{Postgraduate Physics Students' Society}
+\date{14.00, Tuesday 15th March, 2016}
+
+
+\headheight 15pt
+
+\rhead[\thepage]{Agenda}
+\lhead[\thepage]{}
+\chead[\thepage]{}
+
+
+\renewcommand{\labelenumii}{\arabic{enumi}.\arabic{enumii}. }
+\newcommand{\itemi}[1]{\bf\large #1}
+\newcommand{\itemii}[1]{\bf #1}
+\renewcommand{\thepage}{}
+
+
+
+\newcommand{\motion}[5]{
+\par \hspace{#5} \fbox{
+\begin{minipage}{1\columnwidth}
+        {\sc Motion:} #1 \vspace{5mm} \\ \hspace{-30mm}
+%       \begin{tabular*}{\columnwidth}{llr}
+        \begin{tabular}{p{0.35\textwidth}p{0.49\textwidth}r}
+        \hspace{-2.5mm}{\sc Mover:} #2 & {\sc} #3 & {\bf #4}
+        \end{tabular}
+\end{minipage}}}
+
+
+\begin{document}
+\thispagestyle{empty}\pagestyle{empty}
+\maketitle
+\begin{enumerate}
+\item {\itemi Attendance}
+	\begin{enumerate}
+	\item {\itemii Opening}\\
+	Meeting chaired by the President, Daniel Rodgers-Pryor\\
+	Minutes taken by the Secretary, Patrick Clearwater
+	\item {\itemii Attendance to be taken}
+	\item {\itemii Apologies}
+	\item {\itemii Committee Membership}
+	\end{enumerate}
+\item {\itemi Adoption of the Agenda}
+\item {\itemi Confirmation of Minutes of Previous Meeting}
+	\begin{enumerate}
+	\item The minutes of meeting XXXX/XX, on XXXX-XX-XX.
+	\end{enumerate}
+\item {\itemi Matters Arising from Previous Minutes}
+\item {\itemi General Business}
+	\begin{enumerate}
+	\item Further business
+	\end{enumerate}
+\item {\itemi Meeting close}
+\end{enumerate}
+\end{document}
