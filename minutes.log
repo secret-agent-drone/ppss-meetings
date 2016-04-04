@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.4.10)  31 MAR 2016 11:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.4.10)  17 MAR 2016 15:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**meeting_tuesday.tex
-(./meeting_tuesday.tex
+**minutes.tex
+(./minutes.tex
 LaTeX2e <2014/05/01>
 Babel <3.9k> and hyphenation patterns for 78 languages loaded.
 (/usr/local/texlive/2014/texmf-dist/tex/latex/base/article.cls
@@ -528,109 +528,111 @@ File: CJK.enc 2012/05/07 4.8.3
 LaTeX Info: Redefining \selectfont on input line 755.
 \CJK@indent=\box30
 )
-(./meeting_tuesday.aux)
-\openout1 = `meeting_tuesday.aux'.
+\lheight=\skip58
 
-LaTeX Font Info:    Checking defaults for OML/pxmi/m/it on input line 46.
-LaTeX Font Info:    Try loading font information for OML+pxmi on input line 46.
+(./minutes.aux)
+\openout1 = `minutes.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/pxmi/m/it on input line 69.
+LaTeX Font Info:    Try loading font information for OML+pxmi on input line 69.
 
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/pxfonts/omlpxmi.fd
 File: omlpxmi.fd 2000/12/14 v1.0
 )
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for OMS/pxsy/m/n on input line 46.
-LaTeX Font Info:    Try loading font information for OMS+pxsy on input line 46.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for OMS/pxsy/m/n on input line 69.
+LaTeX Font Info:    Try loading font information for OMS+pxsy on input line 69.
 
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/pxfonts/omspxsy.fd
 File: omspxsy.fd 2000/12/14 v1.0
 )
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for OMX/pxex/m/n on input line 46.
-LaTeX Font Info:    Try loading font information for OMX+pxex on input line 46.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for OMX/pxex/m/n on input line 69.
+LaTeX Font Info:    Try loading font information for OMX+pxex on input line 69.
 
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/pxfonts/omxpxex.fd
 File: omxpxex.fd 2000/12/14 v1.0
 )
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for U/pxexa/m/n on input line 46.
-LaTeX Font Info:    Try loading font information for U+pxexa on input line 46.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for U/pxexa/m/n on input line 69.
+LaTeX Font Info:    Try loading font information for U+pxexa on input line 69.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/pxfonts/upxexa.fd
 File: upxexa.fd 2000/12/14 v1.0
 )
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Try loading font information for T1+pxr on input line 46.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Try loading font information for T1+pxr on input line 69.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/pxfonts/t1pxr.fd
 File: t1pxr.fd 2000/12/14 v1.0
@@ -697,76 +699,107 @@ e
 (/usr/local/texlive/2014/texmf-dist/tex/latex/ucs/ucsencs.def
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 )
-LaTeX Font Info:    Try loading font information for OT1+pxr on input line 48.
+LaTeX Font Info:    Try loading font information for OT1+pxr on input line 70.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/pxfonts/ot1pxr.fd
 File: ot1pxr.fd 2000/12/14 v1.0
 )
-LaTeX Font Info:    Try loading font information for U+pxmia on input line 48.
+LaTeX Font Info:    Try loading font information for U+pxmia on input line 70.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/pxfonts/upxmia.fd
 File: upxmia.fd 2000/12/14 v1.0
 )
-LaTeX Font Info:    Try loading font information for U+msa on input line 48.
+LaTeX Font Info:    Try loading font information for U+msa on input line 70.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 48.
+LaTeX Font Info:    Try loading font information for U+msb on input line 70.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+pxsyc on input line 48.
+LaTeX Font Info:    Try loading font information for U+pxsyc on input line 70.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/pxfonts/upxsyc.fd
 File: upxsyc.fd 2000/12/14 v1.0
-)
-LaTeX Font Info:    Try loading font information for OMS+pxr on input line 54.
+) (./minutes.toc)
+\tf@toc=\write3
+\openout3 = `minutes.toc'.
 
+ [1
+
+{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Overfull \hbox (4.26445pt too wide) in paragraph at lines 84--84
+[] 
+ []
+
+
+Overfull \hbox (11.59999pt too wide) in paragraph at lines 84--85
+[]  [] 
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+pxr on input line 87.
 (/usr/local/texlive/2014/texmf-dist/tex/latex/pxfonts/omspxr.fd
 File: omspxr.fd 2000/12/14 v1.0
 )
 LaTeX Font Info:    Font shape `OMS/pxr/m/n' in size <12> not available
-(Font)              Font shape `OMS/pxsy/m/n' tried instead on input line 54.
+(Font)              Font shape `OMS/pxsy/m/n' tried instead on input line 87.
 
-Overfull \hbox (16.67607pt too wide) in paragraph at lines 71--72
-[]\T1/pxr/m/n/12 Melbourne will be run-ning a Phys-i-cal Sys-tems course next s
-emester;
- []
-
-[1
-
-{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (6.89565pt too wide) in paragraph at lines 97--98
-[]\T1/pxr/m/n/12 The most costly events for the year will likely be: post-Compl
-etion
+Overfull \hbox (4.26445pt too wide) in paragraph at lines 96--96
+[] 
  []
 
 
-Overfull \hbox (6.95708pt too wide) in paragraph at lines 124--125
-[]\T1/pxr/m/n/12 Committee think the ``men-tor-ing'' of 1st years ses-sions (wh
-ere
+Overfull \hbox (11.59999pt too wide) in paragraph at lines 96--97
+  [] 
  []
 
-[2] [3] [4] [5] (./meeting_tuesday.aux) ) 
+
+Overfull \hbox (4.26445pt too wide) in paragraph at lines 100--100
+[] 
+ []
+
+
+Overfull \hbox (11.59999pt too wide) in paragraph at lines 100--101
+  [] 
+ []
+
+
+Overfull \hbox (4.26445pt too wide) in paragraph at lines 104--104
+[] 
+ []
+
+
+Overfull \hbox (11.59999pt too wide) in paragraph at lines 104--105
+[]  [] 
+ []
+
+[2]
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 112--113
+[][] 
+ []
+
+[3] (./minutes.aux) ) 
 Here is how much of TeX's memory you used:
- 5556 strings out of 493117
- 72440 string characters out of 6135433
- 149285 words of memory out of 5000000
- 8887 multiletter control sequences out of 15000+600000
- 25430 words of font info for 66 fonts, out of 8000000 for 9000
+ 5639 strings out of 493117
+ 73345 string characters out of 6135433
+ 150739 words of memory out of 5000000
+ 8948 multiletter control sequences out of 15000+600000
+ 53962 words of font info for 137 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,6n,43p,444b,322s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2014/texmf-dist/fo
-nts/enc/dvips/base/8r.enc}</usr/local/texlive/2014/texmf-dist/fonts/type1/publi
-c/pxfonts/pxsy.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/pxfon
-ts/rpxr.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/palatino/uplb8a
-.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb>
-Output written on meeting_tuesday.pdf (5 pages, 50084 bytes).
+ 38i,12n,43p,335b,293s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/base/8
+r.enc}</usr/local/texlive/2014/texmf-dist/fonts/type1/public/pxfonts/pxsy.pfb><
+/usr/local/texlive/2014/texmf-dist/fonts/type1/public/pxfonts/rpxr.pfb></usr/lo
+cal/texlive/2014/texmf-dist/fonts/type1/public/pxfonts/rpxsc.pfb></usr/local/te
+xlive/2014/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2
+014/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2014/tex
+mf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on minutes.pdf (3 pages, 58568 bytes).
 PDF statistics:
- 37 PDF objects out of 1000 (max. 8388607)
- 25 compressed objects within 1 object stream
+ 39 PDF objects out of 1000 (max. 8388607)
+ 27 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
